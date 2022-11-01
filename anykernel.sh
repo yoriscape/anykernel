@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Vertigo_Alpha
+kernel.string=Vertigo_Beta
 do.devicecheck=1
 do.modules=0
 do.systemless=1
