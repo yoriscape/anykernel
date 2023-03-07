@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=immensity_munch_Stable
+kernel.string=Vertigo-v1
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=munch
-device.name2=
+device.name1=alioth
+device.name2=aliothin
 device.name3=
 device.name4=
 device.name5=
